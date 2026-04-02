@@ -1,16 +1,26 @@
-## Hi there 👋
+\# I'm Sarthak Maheshwari
 
-<!--
-**Sarthak1Developer/Sarthak1Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 CSE Student
+- 💻 Currently learning DSA in Java
+- 🔐 Interested in Cybersecurity
+- 🚀 Passionate about building projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Sarthak1Developer&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=Sarthak1Developer&theme=radical)
+
+## 📂 Projects
+- 🔹 Intent Watch
+- 🔹 OS Lab Problems
+- 🔹 DSA Practice
+
+## 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/sarthak-maheshwari-51a55a322/)
