@@ -1,6 +1,8 @@
-# 👋 Hi, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=300&lines=Sarthak+Maheshwari" />
+# 👋 Hi, I'm Sarthak Maheshwari
 
----
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=320&lines=Sarthak+Maheshwari" />
+</p>
 
 ## 🚀 About Me  
 
