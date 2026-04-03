@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=100000&color=FFFFFF&vCenter=true&width=350&lines=Sarthak+Maheshwari" />
+# 👋 Hi, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FFFFFF&vCenter=true&width=300&lines=Sarthak+Maheshwari" />
 
 ---
 
@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak1Developer&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak1Developer&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak1Developer&theme=tokyonight" />
 </p>
 
