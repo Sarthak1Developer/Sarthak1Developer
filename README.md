@@ -1,17 +1,8 @@
-# 👋 Hi, I'm Sarthak Maheshwari  
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Student;Developer+%7C+Cybersecurity+Enthusiast;Building+AI+%26+Security+Projects;DSA+in+Java+%F0%9F%92%BB" />
-</p>
+# 👋 Hi, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=100000&color=FFFFFF&vCenter=true&width=350&lines=Sarthak+Maheshwari" />
 
 ---
 
 ## 🚀 About Me  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Passionate+about+Cybersecurity;Building+Real-World+Projects;Improving+Problem+Solving;Future+Security+Engineer" />
-</p>
 
 - 🎓 CSE Student  
 - 🔐 Interested in **Cybersecurity & Ethical Hacking**  
