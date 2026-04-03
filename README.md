@@ -1,78 +1,77 @@
 # 👋 Hi, I'm Sarthak Maheshwari  
 
-💻 **Computer Science Student | Developer | Cybersecurity Enthusiast**  
-
-I enjoy building practical tech solutions — from **AI-powered tools** to **security-focused systems**.  
-Currently focused on **DSA in Java** and exploring **Cybersecurity & System Design**.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Student;Developer+%7C+Cybersecurity+Enthusiast;Building+AI+%26+Security+Projects;DSA+in+Java+%F0%9F%92%BB" />
+</p>
 
 ---
 
 ## 🚀 About Me  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Passionate+about+Cybersecurity;Building+Real-World+Projects;Improving+Problem+Solving;Future+Security+Engineer" />
+</p>
+
 - 🎓 CSE Student  
 - 🔐 Interested in **Cybersecurity & Ethical Hacking**  
-- 💡 Building real-world projects in **AI & Security**  
-- 📈 Improving problem-solving with **DSA (Java)**  
-- 🤝 Batch Representative (Leadership & Communication)  
+- 💡 Building **AI + Security based projects**  
+- 📈 Practicing **DSA in Java**  
+- 🤝 Batch Representative  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 👨‍💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+</p>
 
 ### 🗄️ Database  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 🔥 Featured Projects  
 
-### 🧠 AI-Powered Interview Coach  
-- AI-based system for interview preparation  
-- Analyzes **voice, facial expressions, and responses**  
-- Helps improve communication & confidence  
-
----
-
-### 🌐 IP Address & Port Scanner  
-- Built using **Bash scripting + Nmap**  
-- Performs **IP discovery, port scanning, and risk analysis**  
-- Focused on **cybersecurity fundamentals**  
-
----
-
-### 👁️ Intent Watch (AI Surveillance System)  
-- Smart surveillance system using AI  
-- Detects and analyzes suspicious activities  
-- Built with real-world security use cases in mind  
+| Project | Description | Tech |
+|--------|------------|------|
+| 🧠 **AI Interview Coach** | AI system analyzing voice, facial expressions & responses | Python |
+| 🌐 **IP Port Scanner** | Performs IP discovery, port scanning & risk analysis | Bash, Nmap |
+| 👁️ **Intent Watch** | AI surveillance system detecting suspicious activities | TypeScript |
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak1Developer&show_icons=true&theme=tokyonight)  
-
----
-
-## 🔥 GitHub Streak  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sarthak1Developer&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak1Developer&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak1Developer&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarthak%20Maheshwari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sarthak-maheshwari-51a55a322/)  
+<p>
+  <a href="https://www.linkedin.com/in/sarthak-maheshwari-51a55a322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Maheshwari-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact  
-I like building projects that are not just for marks — but actually **solve real problems** 🚀  
+I build projects not just for academics, but to solve **real-world problems** 🚀  
