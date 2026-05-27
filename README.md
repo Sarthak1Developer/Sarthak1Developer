@@ -1,7 +1,19 @@
 # 👋 Hi, I'm Sarthak Maheshwari
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=320&lines=Sarthak+Maheshwari" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=320&lines=Sarthak+Maheshwari"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=000000&vCenter=true&repeat=false&width=320&lines=Sarthak+Maheshwari"
+    />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=000000&vCenter=true&repeat=false&width=320&lines=Sarthak+Maheshwari"
+    />
+  </picture>
 </p>
 
 ## 🚀 About Me  
