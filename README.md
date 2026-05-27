@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Sarthak Maheshwari
-
 <p align="left">
   <picture>
     <source 
