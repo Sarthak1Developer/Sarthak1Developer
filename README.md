@@ -1,18 +1,20 @@
-<p align="left">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FFFFFF&vCenter=true&repeat=true&width=320&lines=Sarthak+Maheshwari"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=000000&vCenter=true&repeat=true&width=320&lines=Sarthak+Maheshwari"
-    />
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=000000&vCenter=true&repeat=false&width=320&lines=Sarthak+Maheshwari"
-    />
-  </picture>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=Sarthak1Developer&theme=cyber&label=Sarthak%20Maheshwari" width="100%" alt="3D ASCII wordmark for Sarthak Maheshwari" />
 </p>
+
+<p align="center">
+  <img src="./assets/system-scan.svg" width="100%" alt="System profile scan" />
+</p>
+
+---
+
+## 🎮 Contribution Radar
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Sarthak1Developer&theme=cyber&style=jet" width="100%" alt="Animated contribution Jet game" />
+</p>
+
+---
 
 ## 🚀 About Me  
 
