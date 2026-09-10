@@ -18,19 +18,41 @@ jobs:
 
       - name: Refresh Contribution Radar
         run: |
-          curl -s --retry 3 --max-time 30 "https://www.gitskins.com/api/section/heatmap?username=Sarthak1Developer&theme=cyber&style=jet" -o assets/contribution-radar.svg.tmp
+          curl -s --retry 3 --max-time 30 "https://www.gitskins.com/api/section/heatmap?username=Sarthak1Developer&theme=cyber&style=jet" -o assets/contribution-radar.svg.tmp || true
           if [ -s assets/contribution-radar.svg.tmp ] && grep -q "<svg" assets/contribution-radar.svg.tmp; then
             mv assets/contribution-radar.svg.tmp assets/contribution-radar.svg
-            echo "Successfully updated contribution-radar.svg"
+            echo "Updated contribution-radar.svg"
           else
-            echo "Failed to fetch valid SVG from GitSkins, keeping existing asset"
+            echo "Kept existing contribution-radar.svg"
             rm -f assets/contribution-radar.svg.tmp
+          fi
+
+      - name: Refresh GitHub Stats Card
+        run: |
+          curl -s --retry 3 --max-time 30 "https://github-readme-stats-eight-theta.vercel.app/api?username=Sarthak1Developer&show_icons=true&theme=tokyonight" -o assets/github-stats.svg.tmp || true
+          if [ -s assets/github-stats.svg.tmp ] && grep -q "<svg" assets/github-stats.svg.tmp; then
+            mv assets/github-stats.svg.tmp assets/github-stats.svg
+            echo "Updated github-stats.svg"
+          else
+            echo "Kept existing github-stats.svg"
+            rm -f assets/github-stats.svg.tmp
+          fi
+
+      - name: Refresh Top Languages Card
+        run: |
+          curl -s --retry 3 --max-time 30 "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sarthak1Developer&theme=tokyonight&layout=compact" -o assets/top-langs.svg.tmp || true
+          if [ -s assets/top-langs.svg.tmp ] && grep -q "<svg" assets/top-langs.svg.tmp; then
+            mv assets/top-langs.svg.tmp assets/top-langs.svg
+            echo "Updated top-langs.svg"
+          else
+            echo "Kept existing top-langs.svg"
+            rm -f assets/top-langs.svg.tmp
           fi
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-radar.svg
-          git diff --cached --quiet || git commit -m "chore: auto-refresh contribution radar [skip ci]"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: auto-refresh profile assets [skip ci]"
           git push

@@ -67,8 +67,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak1Developer&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak1Developer&theme=tokyonight" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
