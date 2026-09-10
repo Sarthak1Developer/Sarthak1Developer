@@ -1,0 +1,36 @@
+name: Auto-Refresh Profile Assets
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Refresh Contribution Radar
+        run: |
+          curl -s --retry 3 --max-time 30 "https://www.gitskins.com/api/section/heatmap?username=Sarthak1Developer&theme=cyber&style=jet" -o assets/contribution-radar.svg.tmp
+          if [ -s assets/contribution-radar.svg.tmp ] && grep -q "<svg" assets/contribution-radar.svg.tmp; then
+            mv assets/contribution-radar.svg.tmp assets/contribution-radar.svg
+            echo "Successfully updated contribution-radar.svg"
+          else
+            echo "Failed to fetch valid SVG from GitSkins, keeping existing asset"
+            rm -f assets/contribution-radar.svg.tmp
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-radar.svg
+          git diff --cached --quiet || git commit -m "chore: auto-refresh contribution radar [skip ci]"
+          git push

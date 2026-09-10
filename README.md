@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=Sarthak1Developer&theme=cyber&label=Sarthak%20Maheshwari" width="100%" alt="3D ASCII wordmark for Sarthak Maheshwari" />
+  <img src="./assets/wordmark.svg" width="100%" alt="3D ASCII wordmark for Sarthak Maheshwari" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ## 🎮 Contribution Radar
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=Sarthak1Developer&theme=cyber&style=jet" width="100%" alt="Animated contribution Jet game" />
+  <img src="./assets/contribution-radar.svg" width="100%" alt="Animated contribution Jet game" />
 </p>
 
 ---
